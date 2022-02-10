@@ -217,6 +217,9 @@ ul {
     font-size: 25px;
     font-weight: 600;
 }
+.offer__slider-counter #current {
+    font-size: 40px;
+}
 .offer__slider-prev {
     margin-right: 15px;
     width: 50px;
@@ -255,3 +258,4 @@ ul {
     display: flex;
     align-items:center;
 }
+
