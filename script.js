@@ -165,6 +165,7 @@ window.addEventListener('DOMContentLoaded', () => {
                     current.textContent = slideIndex;
                 }
             })
+            
 
 
 
